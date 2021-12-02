@@ -9,13 +9,13 @@ Pieter027/Pieter027 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
            =========================================+
-        |..........   Facebook Crack   ...........|                +-----------------------------------------+
+        |..........   Facebook Crack   ...........|          
         |            #Author: Pieter              |
         |            #Xixixi : Anak Tampang
 
         |              Version 1.0                |
         |  https://github.com/Pieter027/Pieter027 |
-        |  https://www.youtube.com/yaa belum punya|       >
+        |  https://www.youtube.com/yaa belum punya|       
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+

@@ -8,6 +8,15 @@
 Pieter027/Pieter027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+$ pkg install root-repo
+$ pkg install python
+$ pkg install php
+$ git clone https://github.com/Pieter027/Pieter027
+
+
            =========================================+
         |..........   Facebook Crack   ...........|          
         |            #Author: Pieter              |
